@@ -1,0 +1,20 @@
+{
+  "name": "destro-vanityguard",
+  "version": "2.0.0",
+  "description": "Destro VanityGuard — Discord vanity URL protector by Darky",
+  "main": "index.js",
+  "author": "Darky",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "start:config": "node index.js --config config.json"
+  },
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "uuid": "^9.0.1",
+    "ws": "^8.17.1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "vanity_guard": {
+    "enabled": true,
+    "user_token": "YOUR_USER_TOKEN_HERE",
+    "mfa_secret": "YOUR_MFA_SECRET_HERE",
+    "guild_ids": []
+  }
+}
