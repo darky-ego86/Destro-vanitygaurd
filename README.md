@@ -83,6 +83,40 @@ node index.js [options]
   --log    <path>   Log file path
 ```
 
+
+---
+
+## Disclaimer
+
+⚠️ **Selfbot Usage Warning**
+
+This project operates using a **Discord user account (selfbot)**.  
+Selfbots are strictly **against Discord's Terms of Service**.
+
+By using this tool, you acknowledge that:
+
+- Your account may be **flagged, limited, or permanently terminated** by Discord.
+- This tool is provided **for educational purposes only**.
+- You are using it **entirely at your own risk**.
+
+❗ The developers of Destro VanityGuard (**Darky**) are **not responsible** for:
+- Account bans or terminations
+- Loss of access to your Discord account
+- Any misuse of this software
+
+Use responsibly.
+
+
+---
+
+## Usage Notice
+
+You are allowed to use this source code for your own projects or modifications.
+
+However, you **must not forget to give proper credit** to the original developer (**Darky**) as stated in the Attribution Policy.
+
+Failure to provide credit is a violation of the terms.
+
 ---
 
 ## Credits
